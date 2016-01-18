@@ -2,9 +2,9 @@
 <package>
   <name>bpcg</name>
   <version>1.0.0</version>
-  <description>The bpcg package</description>
-  <maintainer email="Kurt Konolige">Kurt/maintainer>
-  <license>BSD,Public Domain,LGPL,LGPL/GPL</license>
+  <description>Block Preconditioned Conjugate Gradient</description>
+  <maintainer email="konolige@ai.sri.com">Kurt Konolige</maintainer>
+  <license>BSD,Public Domain,LGPL,LGPL, GPL</license>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
   <run_depend>roscpp</run_depend>
